@@ -1,12 +1,29 @@
 # DAEL — Release Android ufficiali
 
-Questo repository pubblico ospita esclusivamente i pacchetti APK firmati di **DAEL**, lettore manga Android indipendente derivato da software open source Mihon.
+**DAEL** è un lettore digitale Android indipendente, gratuito, senza pubblicità o abbonamenti, basato sul software open source Mihon.
+
+## Versione disponibile: DAEL v0.9.2 (beta pubblica)
 
 - **Sito del progetto:** https://daelproject.pages.dev/
-- **Versioni e download:** utilizzare la sezione **Releases** di questo repository quando saranno pubblicate release ufficiali.
-- **Aggiornamenti dall'app:** le future versioni di DAEL potranno verificare le release pubbliche e scaricare l'APK nell'app. Android richiederà una conferma per l'installazione.
-- **Sorgenti manga:** DAEL non fornisce contenuti o repository di terzi preinstallati. Utilizzare soltanto fonti autorizzate.
+- **Download ufficiali:** https://github.com/vinczenon-wq/DAEL-Releases/releases/tag/v0.9.2
+- **ARM64, per smartphone Android moderni:** [DAEL-v0.9.2-arm64-v8a.apk](https://github.com/vinczenon-wq/DAEL-Releases/releases/download/v0.9.2/DAEL-v0.9.2-arm64-v8a.apk)
+- **Versione universale, per maggiore compatibilità:** [DAEL-v0.9.2.apk](https://github.com/vinczenon-wq/DAEL-Releases/releases/download/v0.9.2/DAEL-v0.9.2.apk)
+- **Verifica integrità APK:** [SHA256SUMS.txt](https://github.com/vinczenon-wq/DAEL-Releases/releases/download/v0.9.2/SHA256SUMS.txt)
 
-**Stato attuale: canale di distribuzione in preparazione.** Nessuna release è pubblicata finché non si completano i test dell'aggiornamento dalla versione precedente, della firma digitale e della conservazione dei dati.
+Le due varianti hanno le stesse funzionalità. La scelta dipende dall'architettura del dispositivo, **non** dalla versione di Android. In caso di dubbio usare la versione universale.
 
-Questo repository **non contiene** chiavi di firma, password o segreti di compilazione. Il codice sorgente e gli avvisi di licenza sono gestiti separatamente. DAEL riconosce il contributo del progetto [Mihon](https://github.com/mihonapp/mihon) e non è affiliato al suo team.
+## Aggiornamenti
+
+La versione 0.9.2 è predisposta per controllare gli aggiornamenti da questo repository. La verifica end-to-end dell'aggiornamento integrato verso una nuova release **non è ancora completata**. Android richiederà una conferma per installare gli aggiornamenti.
+
+## Contenuti e diritti
+
+DAEL non distribuisce cataloghi editoriali o repository di fonti di terze parti preinstallati. Utilizzare esclusivamente contenuti e servizi autorizzati.
+
+## Integrità e distribuzione
+
+Pubblicare soltanto APK firmati e verificati, accompagnati da checksum SHA-256. Non condividere chiavi di firma o segreti di compilazione. Il codice di sviluppo e gli avvisi di licenza sono gestiti separatamente.
+
+DAEL è un progetto indipendente derivato da codice open source di [Mihon](https://github.com/mihonapp/mihon) e non è affiliato al team Mihon.
+
+**Contatto progetto:** projectdael1982@gmail.com
